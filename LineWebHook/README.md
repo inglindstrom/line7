@@ -1,2 +1,0 @@
-# LineBotWebHook
-for mmp course
